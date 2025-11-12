@@ -1,2 +1,4 @@
 *.swp
 src/honeywell
+*.o
+tests/run_tests
