@@ -7,7 +7,7 @@ TEST_DIR = .
 
 LIB_OBJS = $(SRC_DIR)/analogDecoder.o
 
-TEST_SRCS = test_analog_decoder.cpp test_digital_decoder.cpp test_main.cpp
+TEST_SRCS = test_analog_decoder.cpp test_digital_decoder.cpp test_integration.cpp test_main.cpp
 TEST_OBJS = $(TEST_SRCS:.cpp=.o)
 
 TEST_BIN = run_tests
