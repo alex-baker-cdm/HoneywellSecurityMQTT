@@ -38,7 +38,7 @@ The test suite includes comprehensive tests for:
 ### Prerequisites
 
 The tests use a lightweight custom testing framework (no external dependencies required). You only need:
-- g++ compiler with C++11 support
+- A C++20-compatible compiler (e.g., GCC 10+, Clang 10+)
 - Standard C++ library
 
 ### Build Commands
