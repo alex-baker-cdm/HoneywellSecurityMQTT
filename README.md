@@ -16,7 +16,7 @@ This project is based on jhaines0's HoneywellSecurity project but instead of bei
  - RTL-SDR USB adapter; commonly available on Amazon
  - rtlsdr library
  - mosquittopp library
- - gcc
+ - A C++20-compatible compiler (e.g., GCC 10+, Clang 10+)
 
 ## Installation
 ### Dependencies
